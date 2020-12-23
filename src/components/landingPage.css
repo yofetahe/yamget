@@ -1,0 +1,7 @@
+.fixedMenu {
+    background-color: rgb(192, 192, 192, 0.6);
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:100;
+}

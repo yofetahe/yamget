@@ -1,0 +1,54 @@
+.WorkSection {
+    padding: 50px 0px;
+    color: gray;
+}
+.Title {
+    font-size: 40px;
+}
+.SectionDescription {
+    font-size: 18px;
+    font-style: italic;
+    margin: 20px 40px 30px 40px;
+    padding: 0px 40px;
+}
+
+/*---- Work ----*/
+.Service {
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    margin: 20px 80px 0px 0px;
+}
+.Service>img {
+    height: 60px;
+    width: auto;
+}
+.ServiceTitle {
+    font-weight: bolder;
+    border-bottom: 1px solid #dadada;
+    margin: 10px 0px;
+}
+.ServiceDescription {
+    text-align: justify;
+}
+
+/* smaller devices */
+@media (max-width: 767px) {
+    .Service {
+        display: block;
+        width: 100%;
+        padding-top: 20px;
+        margin: auto;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 1199px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media (min-width: 1200px) {
+
+    
+}

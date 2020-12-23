@@ -1,0 +1,85 @@
+.CollaborationSection {
+    background-image: url("../../assets/work_together.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-color: rgb(58, 58, 58);
+    
+    height: 400px;
+    text-align: left;
+    margin: 40px 0px;
+}
+.DimBackground {
+    height: 400px;
+    background-color: rgba(42, 50, 63, 0.6);
+    /* padding: 30px 20px; */
+}
+.Context>div {
+    color: #fff;
+    font-size: 30px;
+    font-style: italic;    
+    text-shadow: 1px 1px 0px #000;
+}
+.Context>span {
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+    font-variant: small-caps;
+    text-shadow: 1px 1px 0px #000;
+}
+.CollaborationContent {
+    position: relative;
+    min-height: 400px;    
+}
+.ContactUs {
+    bottom: 0;
+    position: absolute;
+    background-color: #2a323f;
+    color: #fff;
+    min-height: 80px;
+    /* padding-top: 20px; */
+    width: 100%;    
+}
+.ContactUsContent {
+    float: left;
+    text-align: left;
+}
+.contactUsButton {
+    float: right;
+    padding: 5px 50px 0px 0px;
+}
+.contactUsButton>button {
+    padding: 10px 30px;
+    background-color: red;
+    color: #fff;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.contactUsButton>button:hover {
+    background-color: #fff;
+    color: red;
+    border: 1px solid red;
+}
+
+/* smaller devices */
+@media (max-width: 767px) {
+    .Context>span {
+        font-size: 30px;
+    }
+    .Context>div {
+        color: #fff;
+        font-size: 20px;
+        font-style: italic;    
+        text-shadow: 1px 1px 0px #000;
+    }
+    .ContactUsContent {
+        float: none;
+        text-align: center;
+    }
+    .contactUsButton {
+        float: none;
+        padding: 5px 0px;
+    }
+}

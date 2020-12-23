@@ -1,0 +1,42 @@
+.Projects {
+    background-color: #f5f5f5;
+    padding: 40px 0px;
+}
+.Title1 {
+    font-variant: small-caps;
+    font-size: 16px;
+}
+.Title2 {
+    font-size: 40px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.Project {
+    display: inline-block;
+    margin-right: 20px;
+    width: 20%;
+    vertical-align: top;
+}
+.Project>img {
+    height: 100px;
+    width: auto;
+}
+.ProjectTitle {
+    text-overflow: clip;
+    font-weight: bolder;
+}
+.ProjectDescription {
+    margin-top: 10px;
+}
+
+/* smaller devices */
+@media (max-width: 767px) {
+    .Project {
+        display: block;
+        margin-bottom: 20px;
+        padding-top: 20px;
+        width: 100%;
+        border-top: 1px solid #fff;
+    }
+}

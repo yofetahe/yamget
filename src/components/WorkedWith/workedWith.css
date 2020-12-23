@@ -1,0 +1,19 @@
+.WorkedWith {
+    background-color: #f5f5f5;
+    text-align: center;
+    padding: 60px 0px;
+    color: #a0a0a0;
+    font-weight: bolder;
+}
+.OrganizationList {
+    margin-top: 20px;
+}
+
+.Organization {
+    display: inline-block;
+    margin-left: 30px;
+}
+.Organization>img {
+    width: 80px;
+    height: auto;
+}

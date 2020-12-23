@@ -1,0 +1,15 @@
+.AboutUs {
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+.AboutUsTitle {
+    text-align: left;
+    font-size: 40px;
+    color: gray;
+    margin-bottom: 20px;
+}
+.AboutUsContent {
+    text-align: justify;
+    color: gray;
+    line-height: 30px;
+}

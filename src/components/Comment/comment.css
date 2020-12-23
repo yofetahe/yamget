@@ -1,0 +1,60 @@
+.CommentForm {
+    background-color: #f5f5f5;
+    padding: 60px 0px;
+}
+
+form {
+    text-align: left;
+    padding-top: 30px;
+    line-height: 40px;
+    width: 100%;
+}
+label {
+    font-style: italic;
+}
+input[type=text] {
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 5px;
+    height: 40px;
+    width: 100%;
+    margin: 10px 30px 0px 0px;
+    color: gray;
+    padding-left: 10px;
+    font-style: italic;
+}
+textarea {
+    width: 100%;
+    border: 1px solid rgb(196, 196, 196);
+    border-radius: 5px;
+    margin-top: 10px;
+    color: gray;
+    padding: 10px 0px 0px 10px;
+    font-style: italic;
+    font-size: 16px;
+}
+input[type=submit] {
+    padding: 10px 30px;
+    background-color: red;
+    color: #fff;
+    border: 0px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.SuccessMessage {
+    color: green;
+    width: 100%;
+    text-align: center;
+}
+.ErrorMessage {
+    color: red;
+    width: 100%;
+    text-align: center;
+}
+
+@media (min-width: 1200px) {
+
+    form {
+        width: 50%;
+        margin-left: 250px;
+    }
+}

@@ -1,0 +1,28 @@
+.ContactUsSection {
+    background-image: url("../../assets/map_bg.PNG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.DimCover {
+    padding: 100px 0px;
+    background-color: rgba(31, 111, 255, .86);
+    color: #fff;
+}
+
+.ContactUsTitle {
+    font-size: 40px;    
+}
+.Address {
+    padding-top: 6px;
+}
+.SocialMediaIcon>Img {
+    cursor: pointer;
+    border: solid 1px #fff;
+    border-radius: 50%;
+}
+.Facebook, .Twitter {
+    width: auto;
+    height: 40px;
+    margin: 10px 10px 0px 0px;
+}
