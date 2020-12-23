@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/yamget_v1/static/css/main.425d03f3.chunk.css",
+    "main.js": "/yamget_v1/static/js/main.029d9697.chunk.js",
+    "main.js.map": "/yamget_v1/static/js/main.029d9697.chunk.js.map",
+    "runtime-main.js": "/yamget_v1/static/js/runtime-main.c47ff358.js",
+    "runtime-main.js.map": "/yamget_v1/static/js/runtime-main.c47ff358.js.map",
+    "static/js/2.101d2e6a.chunk.js": "/yamget_v1/static/js/2.101d2e6a.chunk.js",
+    "static/js/2.101d2e6a.chunk.js.map": "/yamget_v1/static/js/2.101d2e6a.chunk.js.map",
+    "static/js/3.1d0ed965.chunk.js": "/yamget_v1/static/js/3.1d0ed965.chunk.js",
+    "static/js/3.1d0ed965.chunk.js.map": "/yamget_v1/static/js/3.1d0ed965.chunk.js.map",
+    "index.html": "/yamget_v1/index.html",
+    "static/css/main.425d03f3.chunk.css.map": "/yamget_v1/static/css/main.425d03f3.chunk.css.map",
+    "static/js/2.101d2e6a.chunk.js.LICENSE.txt": "/yamget_v1/static/js/2.101d2e6a.chunk.js.LICENSE.txt",
+    "static/media/Ethiopia.76fb9cbd.png": "/yamget_v1/static/media/Ethiopia.76fb9cbd.png",
+    "static/media/bas.aab6113f.png": "/yamget_v1/static/media/bas.aab6113f.png",
+    "static/media/champions-acadamy.0dfe700d.png": "/yamget_v1/static/media/champions-acadamy.0dfe700d.png",
+    "static/media/header.css": "/yamget_v1/static/media/cityview.e631c7a2.jpg",
+    "static/media/digital-printing.7a88eed9.png": "/yamget_v1/static/media/digital-printing.7a88eed9.png",
+    "static/media/everest.308948dd.png": "/yamget_v1/static/media/everest.308948dd.png",
+    "static/media/facebook.1e6e85e2.png": "/yamget_v1/static/media/facebook.1e6e85e2.png",
+    "static/media/family_guidance_association.d90d5c38.png": "/yamget_v1/static/media/family_guidance_association.d90d5c38.png",
+    "static/media/graphics-design.dc9752d2.png": "/yamget_v1/static/media/graphics-design.dc9752d2.png",
+    "static/media/contactUs.css": "/yamget_v1/static/media/map_bg.af4b3943.PNG",
+    "static/media/menu_close.b82a452b.png": "/yamget_v1/static/media/menu_close.b82a452b.png",
+    "static/media/network-installation.d7e88c3d.png": "/yamget_v1/static/media/network-installation.d7e88c3d.png",
+    "static/media/paper-printing.6c034029.png": "/yamget_v1/static/media/paper-printing.6c034029.png",
+    "static/media/pms.aabb9ca6.png": "/yamget_v1/static/media/pms.aabb9ca6.png",
+    "static/media/tms.463e464e.png": "/yamget_v1/static/media/tms.463e464e.png",
+    "static/media/twitter.f919c057.png": "/yamget_v1/static/media/twitter.f919c057.png",
+    "static/media/twitter_inverse.889db2ca.png": "/yamget_v1/static/media/twitter_inverse.889db2ca.png",
+    "static/media/collaboration.css": "/yamget_v1/static/media/work_together.942f95e7.jpg",
+    "static/media/yamget_logo.be26cf0b.png": "/yamget_v1/static/media/yamget_logo.be26cf0b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c47ff358.js",
+    "static/js/2.101d2e6a.chunk.js",
+    "static/css/main.425d03f3.chunk.css",
+    "static/js/main.029d9697.chunk.js"
+  ]
+}
